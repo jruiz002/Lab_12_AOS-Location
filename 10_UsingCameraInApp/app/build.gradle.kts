@@ -64,4 +64,6 @@ dependencies {
     implementation (libs.androidx.camera.extensions)
     implementation (libs.androidx.foundation)
 
+    implementation (libs.play.services.location)
+
 }
